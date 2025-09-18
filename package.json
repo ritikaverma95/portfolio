@@ -2,7 +2,7 @@
   "name": "reactjs",
   "version": "1.0.0",
   "description": "React by ritika",
-    "homepage": "https://ritika001215.github.io/React",
+    "homepage":  "https://ritikaverma95.github.io/portfolio",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --dist-dir dist",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ritika001215/React.git"
+    "url": "git+https://github.com/ritikaverma95/portfolio.git"
   },
   "keywords": [
     "react",
