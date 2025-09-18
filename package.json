@@ -4,7 +4,7 @@
   "description": "React by ritika",
     "homepage": "https://ritika001215.github.io/React",
   "scripts": {
-    "start": "parcel src/portfolio.html",
+    "start": "parcel src/index.html",
     "build": "parcel build src/index.html --dist-dir dist",
      "predeploy": "npm run build",
          "deploy": "gh-pages -d dist",
